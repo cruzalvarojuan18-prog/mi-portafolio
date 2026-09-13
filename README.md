@@ -1,7 +1,6 @@
 # Mi portafolio
 
-Trabajos del curso Diseno de Interfaces de Programacion
-Avanzado.
+Trabajos del curso Diseno de Interfaces de Programacion Avanzado.
 
 ## Sobre mi
 
@@ -28,6 +27,7 @@ Estudiante de Diseno y Desarrollo de Software en Tecsup.
 - [x] Laboratorio 01: Git basico
 - [x] Laboratorio 03: Trabajo colaborativo
 - [ ] Laboratorio 04: Markdown
+
 ## Enlaces utiles
 
 - [Guia oficial de Markdown](https://www.markdownguide.org/)
@@ -36,6 +36,7 @@ Estudiante de Diseno y Desarrollo de Software en Tecsup.
 ## Captura de mi trabajo
 
 ![Pantalla principal del proyecto](img/captura.png)
+
 ## Comandos que mas uso
 
 Para ver el estado del proyecto uso `git status`.
@@ -44,3 +45,8 @@ Para ver el estado del proyecto uso `git status`.
 git add .
 git commit -m "Actualiza el README"
 git push origin main
+```
+
+- [Guia del proyecto](docs/GUIA.md)
+
+
